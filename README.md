@@ -1,0 +1,1 @@
+# Impact_on_Solar_Enegy_Farms_Due_to_Extreme_Weather_Events_Group6_Fall2023
