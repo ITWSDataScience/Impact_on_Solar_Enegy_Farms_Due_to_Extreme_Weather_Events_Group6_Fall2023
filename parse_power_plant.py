@@ -21,3 +21,4 @@ def parse(gen_csv = False):
         df.to_csv("cali_powerplant_out.csv", index = False)
     else:
         print("Parsed the data")
+
