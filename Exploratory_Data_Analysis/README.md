@@ -1,4 +1,4 @@
-#Author: @Gloria
+
 
 
 # Exploratory Data Analysis (EDA)
@@ -15,7 +15,7 @@ The analysis involves scatter plots, line plots, and insights into disaster type
 ### 1. Scatter Plots: Risk Value vs Solar Radiance
 
 ### 2. Line Plot: Values Over Months
-### 3. Barplot: Disaster Types Analysis
+
   - This analysis narrowed down  specific disasters of various counties
 
 
