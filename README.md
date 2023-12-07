@@ -1,4 +1,8 @@
-# Impact_on_Solar_Energy_Farms_Due_to_Extreme_Weather_Events_Group6_Fall2023
+
+This repository contains an Data Analysis on 
+# Impact_of_Natural_Diasters_on_Solar_Energy_Farms_in_California_Group6_Fall2023
+
+
 
 ## Abstract
 The growing global demand for reliable, cost-effective, and sustainable sources of energy, driven by technological advancements, emphasizes the importance of renewable energy solutions. Solar energy stands out as a promising and readily available energy to address the existing energy challenges. However, this is highly impacted by natural disasters which could affect solar energy farms.
